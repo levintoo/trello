@@ -3,9 +3,5 @@
 </script>
 
 <template>
-  <h1>Yeet app</h1>
+  <h1 class="text-gray-800">Yeet app</h1>
 </template>
-
-<style scoped>
-
-</style>
