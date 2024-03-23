@@ -10,9 +10,12 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
+    "@vueuse/nuxt": "^10.9.0",
+    "nanoid": "^5.0.6",
     "nuxt": "^3.11.1",
     "vue": "^3.4.21",
-    "vue-router": "^4.3.0"
+    "vue-router": "^4.3.0",
+    "vuedraggable": "^4.1.0"
   },
   "packageManager": "yarn@1.22.21+sha1.1959a18351b811cdeedbd484a8f86c3cc3bbaf72",
   "devDependencies": {
