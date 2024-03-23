@@ -10,11 +10,11 @@
     "postinstall": "nuxt prepare"
   },
   "dependencies": {
-    "@heroicons/vue": "^2.1.1",
-    "nuxt": "^3.10.3",
-    "vue": "^3.4.19",
+    "nuxt": "^3.11.1",
+    "vue": "^3.4.21",
     "vue-router": "^4.3.0"
   },
+  "packageManager": "yarn@1.22.21+sha1.1959a18351b811cdeedbd484a8f86c3cc3bbaf72",
   "devDependencies": {
     "@nuxtjs/tailwindcss": "^6.11.4"
   }
